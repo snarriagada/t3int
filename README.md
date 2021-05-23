@@ -1,3 +1,23 @@
+
+Sebastián Arriagada
+Referencias utilizadas en el código:
+Uso de useEffect y useState:
+https://www.youtube.com/watch?v=0_D8ruGVp20&t=867s
+https://www.youtube.com/watch?v=AeMHuFb85ts&t=316s
+https://www.youtube.com/watch?v=6lvI-gTF_X8&t=1053s
+Uso de leaflet e implementación de Markers/Polylines:
+https://www.youtube.com/watch?v=nZaZ2dB6pow&t=204s
+https://www.youtube.com/watch?v=UPMyORJpO30&t=609s
+https://www.youtube.com/watch?v=2R_5wRHpOfg&t=995s
+https://www.youtube.com/watch?v=PMtXhxW6t2k&t=1213s
+https://www.youtube.com/watch?v=Xgoexs3xybU&t=803s
+Conexión a Sockets:
+https://www.youtube.com/watch?v=0wqteZNqruc
+https://www.youtube.com/watch?v=KkjtC1UrUCI&t=661s
+https://github.com/oguzhanaknc/React-Live-Car-Tracker/blob/048ee71e50e118f1a8cbba6105748e45ffea2d16/src/App.js
+Chat:
+https://www.youtube.com/watch?v=mEr9lt5mG9A&t=1434s
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
